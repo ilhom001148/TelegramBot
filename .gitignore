@@ -1,0 +1,19 @@
+# Maxfiy ma'lumotlar (Buni aslo yuklamang!)
+.env
+
+# Python vaqtinchalik fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit (Venv)
+venv/
+env/
+.venv/
+
+# IDE sozlamalari
+.vscode/
+.idea/
+
+# Log fayllar
+*.log
